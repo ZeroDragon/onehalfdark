@@ -1,3 +1,10 @@
+One Half Dark
+=============
+
+This color scheme was based from [Sonph's OneHalf](https://github.com/sonph/onehalf)  
+Go check his repository for better and more complete themes  
+
+
 # Vim Installation & Usage
 
 

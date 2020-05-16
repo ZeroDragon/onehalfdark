@@ -1,12 +1,11 @@
 " ==============================================================================
 "   Name:        One Half Dark
-"   Author:      Son A. Pham <sp@sonpham.me>
-"   Url:         https://github.com/sonph/onehalf
+"   Author:      ZeroDragon <carlos@floresbenavides.com>
+"   Url:         https://github.com/zerodragon/onehalfdark
 "   License:     The MIT License (MIT)
 "
 "   A dark vim color scheme based on Atom's One. See github.com/sonph/onehalf
-"   for installation instructions, a light color scheme, versions for other
-"   editors/terminals, and a matching theme for vim-airline.
+"   for installation instructions, and a matching theme for vim-lightline.
 " ==============================================================================
 
 set background=dark
